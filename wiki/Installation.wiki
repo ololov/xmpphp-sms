@@ -1,0 +1,17 @@
+#summary Installation of XMPPHP-SMS
+#labels Phase-Deploy,Phase-Requirements
+
+= Introduction =
+
+This page explains how to install XMPPHP-SMS plugin for [http://code.google.com/p/xmpphp/ XMPPHP] class.
+
+= System requirements =
+
+The system requirements of this plugin is the same as for [http://code.google.com/p/xmpphp/ XMPPHP library].
+
+= Installation procedure =
+
+  # Download and install the latest version of XMPPHP library: http://code.google.com/p/xmpphp/
+  # Download the latest version of plugin: (link to release)
+  # Copy XMPP_SMS.php file to the same directory where XMPP.php file from XMPPHP library resides
+  # Installation complete
