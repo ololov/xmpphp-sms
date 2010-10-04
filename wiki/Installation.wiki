@@ -12,6 +12,6 @@ The system requirements of this plugin is the same as for [http://code.google.co
 = Installation procedure =
 
   # Download and install the latest version of XMPPHP library: http://code.google.com/p/xmpphp/
-  # Download the latest version of plugin: (link to release)
+  # Download the latest version of plugin: http://xmpphp-sms.googlecode.com/svn/trunk/XMPP_SMS.php
   # Copy XMPP_SMS.php file to the same directory where XMPP.php file from XMPPHP library resides
   # Installation complete, you may proceed to [Usage]
